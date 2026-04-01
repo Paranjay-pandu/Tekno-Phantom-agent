@@ -72,8 +72,4 @@ Open `http://localhost:3000`.
 - Real browser execution requires `BROWSER_MODE=playwright` and `python -m playwright install chromium`.
 - File MCP transport is still placeholder; local artifact file writes are implemented.
 - Provider toggle is brain-service admin config only; UI exposes it as read-only status.
-
-
-
-THIS IS THE SAMPLE REPO
-COMMIT
+THISIS jignefwiogjrnfipodsfjgbiuesfbgiuds
